@@ -3,4 +3,4 @@ Git is free software.
 
 add Git is free software.
 
-Greating a new branch is quick.
+Greating a new branch is quick & simple.
